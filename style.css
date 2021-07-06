@@ -136,9 +136,9 @@ body{
 /* start of a new dynamic iconic design will be called fourth portion */
 
 .fourth-portion{
-  margin-bottom: 50px;
+  margin-bottom: 5px;
   border-bottom: 5px solid grey;
-  border-bottom-left-radius: 20px;
+  border-bottom-left-radius: 40px;
   box-shadow: 10px 10px 40px grey;
 }
 
@@ -262,8 +262,7 @@ body{
 .fifth-section-down-part  {
   background-color: black;
   border-top: 1px solid grey;
-  border-top-left-radius: 20px;
-  margin-top: 0px;
+  border-top-right-radius: 40px;
 }
 
 .fifth-part-head{
